@@ -14,4 +14,5 @@ Conceitos: Programação Orientada a Objetos (POO), Segurança/Regex, Automaçã
 🚀 O que eu construo:
 Transformo rotinas burocráticas em scripts de poucos segundos e desenvolvo aplicações web completas (do banco de dados à interface do usuário).
 
-📫 Como falar comigo: Meu LinkedIn
+📫 Como falar comigo: > 📫 **Como falar comigo:** [Meu LinkedIn](https://www.linkedin.com/in/egfiuza/)
+
