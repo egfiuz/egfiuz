@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá, eu sou a Eliene Fiuza 👋
+Desenvolvedora Full Stack | Especialista em Automações em Python e APIs
 
-<!--
-**egfiuz/egfiuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Com quase duas décadas de vivência em infraestrutura de TI e redes, hoje construo soluções de software inteligentes para otimizar processos e eliminar o trabalho manual das empresas.
 
-Here are some ideas to get you started:
+🛠️ Meu Arsenal Tecnológico:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend & Automação: Python, Integração de APIs (Google Cloud, etc.)
+
+Frontend: React.js, JavaScript, HTML5
+
+Conceitos: Programação Orientada a Objetos (POO), Segurança/Regex, Automação de Diretórios.
+
+🚀 O que eu construo:
+Transformo rotinas burocráticas em scripts de poucos segundos e desenvolvo aplicações web completas (do banco de dados à interface do usuário).
+
+📫 Como falar comigo: Meu LinkedIn
